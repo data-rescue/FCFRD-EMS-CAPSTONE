@@ -1,0 +1,33 @@
+Medication_Given_RXCUI_Code,Medication_Given_Description,MedicationGroup
+1191,"Acetylsalicylic Acid (Aspirin, ASA) ",Cardiac
+296,Adenosine (Adenocard),Cardiac
+435,Albuterol (Ventolin) ,Respiratory
+703,Amiodarone (Cordarone),Cardiac
+1223,Atropine (Atropine Sulfate) ,Cardiac
+1901,Calcium Chloride (10%) ,Cardiac
+5514,Cyanokit (Hydroxocobalamin),Poisoning
+237648,Dextrose 10 % (D10),Diabetic
+237653,Dextrose 50 % (D50),Diabetic
+3498,Diphenhydramine (Benadryl),Allergic Reaction
+317361,"Epinephrine 0.1 MG/ML (1:10,000)",Cardiac
+328316,"Epinephrine 1 MG/ML (1:1,000)",Allergic Reaction
+4337,Fentanyl Citrate (Sublimaze) ,Pain
+4832,Glucagon (Glucagen),Diabetic
+4850,Glucose (Oral),Diabetic
+7213,Ipratropium Bromide(Atrovent),Respiratory
+6130,Ketamine (Ketalar),Behavioral Control & Pain
+6387,Lidocaine (2%) (Xylocaine) ,Pain
+6585,Magnesium Sulfate (50%) ,Multi-Use
+6902,Methylprednisolone (Solu-Medrol) ,Multi-Use
+6960,Midazolam (Versed),Seizures & Sedation
+7052,Morphine (Morphine Sulfate) ,Pain
+7242,Naloxone (Narcan),Overdose
+4917,Nitroglycerin,Cardiac
+328853,Norepinephrine (Levophed),Hypotension
+125464,Normal saline,General
+26225,Ondansetron (Zofran),Nausea & Vomiting
+7806,Oxygen,General
+237361,Sodium Bicarbonate (4.2%) (Infant),Multi-Use
+36676,Sodium Bicarbonate (8.4%) ,Multi-Use
+91189,Tetracaine,Eye Pain
+10691,Tranexamic Acid (TXA),Hemorrhaging

@@ -1,0 +1,69 @@
+﻿Procedure_Performed_Description,Procedure_Performed_Code,CategoryLabel,CategoryCode
+Airway - Clear/Suction,230040009,Airway - Clear/Suction,1
+Airway - Foreign Body Removal,232707004,Airway - Foreign Body Removal,2
+Airway - Nasopharyngeal Insertion,182692007,BLS Airway,3
+Airway - Open/Position,232664002,Exclude,0
+Airway - Oropharyngeal Insertion,7443007,BLS Airway,3
+Airway - Removal of Adjunct (non-ETT),232708009,Exclude,0
+"Airway - Supraglottic Airway (i-Gel, King)",427753009,Airway - Supraglottic Airway,4
+"Airway - Supraglottic Airway (King, i-Gel)",427753009,Airway - Supraglottic Airway,4
+Assess - Assessment of Patient,422618004,Assessment,5
+Assess - Blood Glucose Level (BGL),302789003,Assessment,5
+Assess - Capnograph waveform,250863006,Assessment,5
+Assess - Capnography (ETCO2),425543005,Assessment,5
+Assess - Measurement of carbon monoxide (ETCO),442013003,Assessment,5
+Assess - Orthostatic Vital Signs,425058005,Exclude,0
+Assess - SpCO - Carbon Monoxide - Carboxyhemoglobin - (RAD57),19821003,Assessment,5
+Behavior - Restraint Applied (Chemical),406164000,Behavior - Restraint Applied,6
+Behavior - Restraint Applied (Physical),386423001,Behavior - Restraint Applied,6
+CPR - Discontinued,427569000,Exclude,0
+CPR - Manual,89666000,CPR,7
+CPR - Mechanical Device,429283006,CPR,7
+Cricothyrotomy - Needle,232689008,Cricothyrotomy,8
+Cricothyrotomy - Surgical,232692007,Cricothyrotomy,8
+CV - Cardioversion,250980009,CV - Cardioversion,9
+CV - Defibrillation - Manual,426220008,CV - Defibrillation - Manual,10
+CV - ECG - 12 Lead Obtained,268400002,CV - ECG 12/15,11
+CV - ECG - 15 Lead Obtained,429163003,CV - ECG 12/15,11
+CV - ECG - Limb Lead Monitoring,428803005,CV - ECG Limb,30
+CV - Pacing - External or Internal,18590009,CV - Pacing,12
+CV - Vagal Maneuver,128968000,CV - Vagal Maneuver,13
+Decompression - Chest Decompression,182705007,Chest Decompression,14
+Electrocardiographic monitoring,46825001,Exclude,0
+Enviro - Hypothermia Induction Therapy,430189000,Exclude,0
+Enviro - Patient Cooling (Cold Pack or General),431774007,Enviro - Patient Cooling,15
+Enviro - Patient Warming (Warm Pack or General),431949004,Enviro - Patient Warming,16
+Gen'l - Extrication,83887000,Exclude,0
+Gen'l - Irrigation - Eye(s),49999004,Gen'l - Irrigation - Eye(s),17
+Gen'l - Monitoring of Preexisting Devices and Interventions,182777000,Exclude,0
+Hemorrhage Clamp,410025003,Exclude,0
+Infectious - Decontamination of Patient,409530006,Exclude,0
+Intubation - C-Collar for Stabilization,49689007,Exclude,0
+Intubation - Cricoid Pressure Applied,241726007,Exclude,0
+Intubation - Existing Tracheostomy Stoma,232685002,Intubation - Existing Tracheostomy Stoma,18
+Intubation - Oral,232674004,Intubation/Laryngoscopy,19
+IO Start - Intraosseous Access,430824005,IO Start - Intraosseous Access,20
+IV - Discontinue,424287005,Exclude,0
+IV Start - EJ (External Jugular Vein),405427009,IV Start - Vein,21
+IV Start - Extremity Vein (arm or leg),392230005,IV Start - Vein,21
+Laryngoscopy - Direct,78121007,Intubation/Laryngoscopy,19
+Laryngoscopy - Indirect,673005,Intubation/Laryngoscopy,19
+MS - Cervical Spinal Restriction of Motion,398041008,MS - Restriction of Motion,22
+MS - Full Spinal Restriction of Motion,426498007,MS - Restriction of Motion,22
+MS - Splinting - General,79321009,MS - Splinting,23
+MS - Splinting - Traction,302488007,MS - Splinting,23
+OB - Childbirth - EMS Personnel Present,236973005,Exclude,0
+Pelvic splint device,421634004,Pelvic splint device,24
+Resp - Assist Ventilation - BVM Via Mask,425447009,Resp - Assist Ventilation,25
+Resp - Assist Ventilation - BVM Via Tube,243140006,Resp - Assist Ventilation,25
+Resp - Assisted Ventilation - CPAP,47545007,Resp - Assisted Ventilation - CPAP,26
+ROSC (Assessment Finding),711410007,Exclude,0
+Warming - Use of IV/IO Fluid Warmer,433695001,Warming - Use of IV/IO Fluid Warmer,27
+Wound - Bleeding Control - Hemostatic Agent Use,372045002,Wound - Bleeding Control,28
+Wound - Bleeding Control - Tourniquet Used,20655006,Wound - Bleeding Control,28
+Wound - Burn Care,133901003,Exclude,0
+Wound Care - Dressing - Occlusive Application,22206003,Wound Care - Dressing,29
+Wound Care - Dressing - Pressure Dressing,26906007,Wound - Bleeding Control,28
+Wound Care - General,225358003,Exclude,0
+Wound Care - Irrigation,225116006,Exclude,0
+Wound Packing,241019003,Wound - Bleeding Control,28
