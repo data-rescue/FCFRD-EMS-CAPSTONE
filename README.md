@@ -61,7 +61,7 @@ It is likely that future CAPSTONE projects continue to be coordinated between Ge
 
 For this reason, it is important to expect different artifacts to be provided by either FCFRD or GMU professor. At least, for this particular repository we have generated a set of artifacts that would provide you the necessary information to understand the analysis we have performed. 
 
-In particular, we have included the raw data set we used for our analysis. This raw dataset is an important dependency to replicate all the results presented in this repository on your local machine.
+In particular, to recreate the results that we created here, you will need the same initial raw data file that we started with. This was sent to our professor and our partner under separate cover. Additional configuration support in the form of a video was also provided and may be available to facilitate the setup of your environment. Other supporting documents such as the final report and final presentation are available from either the professor or our Fairfax County Fire and Rescue Department partners.
 
 In the file you will find the following artifacts:
 
